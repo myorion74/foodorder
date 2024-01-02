@@ -1,0 +1,4 @@
+#Tue Jan 02 15:57:46 ICT 2024
+base.0=/Users/inworion/AndroidStudioProjects/flutter_application_1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

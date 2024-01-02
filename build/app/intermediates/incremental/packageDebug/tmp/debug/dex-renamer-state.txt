@@ -1,0 +1,4 @@
+#Thu May 25 17:27:02 ICT 2023
+base.0=/Users/inworion/AndroidStudioProjects/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
