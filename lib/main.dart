@@ -274,7 +274,11 @@ class Page2 extends StatelessWidget {
               width:300,
               height: 300,
               child: Image.asset('assets/IMG_7846.jpeg')),
-            
+            Container(
+              width: 300,
+              height: 300,
+              child: Image.network('https://www.manjarokitchen.com/wp-content/uploads/rpress/2020/05/grilled-chicken-spicy.png'),
+            ),
             Container(
               padding: EdgeInsets.all(15.0),
 
